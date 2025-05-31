@@ -1,7 +1,8 @@
-# Flax-Engine-TruIK
+## Flax-Engine-TruIK
 
-# A drop-in Human Inverse Kinematics system
-# Extension of Flax Engine Two-bone IK
+### A drop-in Human Inverse Kinematics system
+### Extension of Flax Engine Two-bone IK
 
 
-Ver 0.1.a1
+
+Ver 0.3.a1
