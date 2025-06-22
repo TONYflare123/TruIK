@@ -3,7 +3,15 @@
 ### A drop-in Human Inverse Kinematics system
 ### Extension of Flax Engine Two-bone IK
 
-
+#### Features🔥—
+1. Focus on modularity and extensibility🧩
+2. Easy to use
+3. Proper IK and foot rotation
+4. The original animation is preserved as much as possible🕺🤸‍♂️
+5. Root motion is not disturbed by IK
+6. Variable foot height offset from ground🚶‍♂️
+7. Exceptionally good performance, even on low end hardware
+And more—
 
 Ver 1.2.b1
 ![Screenshot_2025_06_01_12_50_02](https://github.com/user-attachments/assets/a6aa0044-3f0c-4be9-8f0f-31e00c1e79af)
